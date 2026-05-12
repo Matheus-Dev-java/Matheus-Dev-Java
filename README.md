@@ -34,7 +34,7 @@ Estou baseado em Teodoro Sampaio, BA — Brasil, e busco oportunidades como dese
 | [protocolo-api](https://github.com/Matheus-Dev-java/protocolo-api) | Java · Spring Boot | API de gestão de protocolos e documentos |
 | [Reco_System](https://github.com/Matheus-Dev-java/Reco_System) | Java · Spring Boot · Redis · Qdrant | Sistema de recomendações com embeddings OpenAI, busca vetorial e cache multi-nível |
 | [Milly_Nails](https://github.com/Matheus-Dev-java/Milly_Nails) | Next.js · PostgreSQL · Twilio | Agendamento online para manicure com notificações via WhatsApp |
-| [Agendamento-api]([https://github.com/Matheus-Dev-java/protocolo-api](https://github.com/Matheus-Dev-java/Agendamento-api)) | Java · Spring Boot | API de Agendamentos diversos |
+| [Agendamento-api]([https://github.com/Matheus-Dev-java/protocolo-api](https://github.com/Matheus-Dev-java/Agendamento-api) | Java · Spring Boot | API de Agendamentos diversos |
 
 ---
 
