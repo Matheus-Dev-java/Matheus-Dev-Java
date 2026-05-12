@@ -54,6 +54,6 @@ Estou baseado em Teodoro Sampaio, BA — Brasil, e busco oportunidades como dese
 
 Aberto a conversas sobre projetos, oportunidades ou troca de experiências.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-dev-java)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/matheus-dev-java](https://www.linkedin.com/in/matheus-costa-26365a323/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.dev.back23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheus-Dev-java)
