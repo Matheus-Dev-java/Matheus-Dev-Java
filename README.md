@@ -16,7 +16,7 @@ Looking for my first internship in software development with a focus on Java bac
 
 **Frontend:** React, JavaScript, Vite, Axios, HTML, CSS
 
-**Ferramentas / Tools:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
+**Ferramentas / Tools:** Git, GitHub, Postman.
 
 ---
 
