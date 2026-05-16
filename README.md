@@ -96,4 +96,4 @@ Recommendation system. Exploratory project with suggestion logic based on user i
 
 - GitHub: [github.com/Matheus-Dev-java](https://github.com/Matheus-Dev-java)
 - E-mail: matheus.dev.back23@gmail.com
-- Localizacao / Location: Teodoro Sampaio, BA, Brasil
+- Linkedin:.[linkedin.com/in/matheus-costa26365a323/](https://www.linkedin.com/in/matheus-costa-26365a323/)
