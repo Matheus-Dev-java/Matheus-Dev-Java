@@ -9,6 +9,20 @@ Information Systems student at Centro Universitário de Excelência Unex, expect
 Looking for my first internship in software development with a focus on Java backend and REST API development.
 
 ---
+## Desenvolvimento e aprendizado
+
+Grande parte dos meus projetos é construída como laboratório prático de estudo. Utilizo ferramentas modernas de IA para acelerar produtividade e explorar soluções, seguindo uma abordagem de entendimento, adaptação e implementação própria.
+
+Tenho foco em:
+
+* boas práticas de backend;
+* evolução incremental dos projetos;
+* documentação;
+* organização de código;
+* aprendizado contínuo.
+
+  ---
+
 
 ## Stack
 
