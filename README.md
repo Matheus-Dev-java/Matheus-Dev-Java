@@ -2,9 +2,12 @@
 
 Estudante de Sistemas de Informacao — Centro Universitário de Excelência Unex, com previsao de conclusao em 2029.
 Busco meu primeiro estagio na area de desenvolvimento de software com foco em backend Java e construcao de APIs REST.
+
 ---
+
 Information Systems student at Centro Universitário de Excelência Unex, expected graduation in 2029.
 Looking for my first internship in software development with a focus on Java backend and REST API development.
+
 ---
 ## Desenvolvimento e aprendizado
 
@@ -19,11 +22,13 @@ Tenho foco em:
 * aprendizado contínuo.
 
   ---
+
 ## Stack
 
 **Backend:** Java, Spring Boot, Spring Data JPA, Maven, H2, REST APIs
 
 **Frontend:** React, JavaScript, Vite,HTML, CSS
+---
 
 ## Contato / Contact
 
