@@ -28,6 +28,7 @@ Tenho foco em:
 **Backend:** Java, Spring Boot, Spring Data JPA, Maven, H2, REST APIs
 
 **Frontend:** React, JavaScript, Vite,HTML, CSS
+
 ---
 
 ## Contato / Contact
